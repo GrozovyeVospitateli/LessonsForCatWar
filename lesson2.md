@@ -16,7 +16,7 @@
 
 **Параметры** находятся во вкладке «Персонаж» в нижней части Игровой, справа от Истории. Разделяются на «Состояние» (параметры снижаются и требуют восстановления) и «Потребности» (параметры растут со временем и требуют утоления).
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/7ec05a40-eeb5-4dd6-a1cc-1a01fb933614)
+![](images/lesson2/parameters.png)
 
 **Всего в игре существует 6 параметров:**
 
@@ -46,11 +46,11 @@
 
 (1):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/26b2cca3-adf1-4802-839c-9a7b35f11546)
+![clear](images/lesson2/vigor1.png)
 
 (2):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/7481ce8d-db61-44a4-90df-56676ca8e18b)
+![cear](images/lesson2/vigor2.png)
 
 ---
 
@@ -64,19 +64,19 @@
 
 (1):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/2b9faf7d-8073-49c7-96c4-b5fa0d1b86c7)
+![clear](images/lesson2/hunger1.png)
 
 (2):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/d2d6d7c2-94f6-4d74-bee2-3c1a26c9f2cb)
+![clear](images/lesson2/hunger2.png)
 
 (3):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/8e4b60f1-efd7-429f-8731-787d3c78b311)
+![clear](images/lesson2/bones.png)
 
 Действие во рту:
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/e92e550c-11a8-4854-aebb-16de028e2e44)
+![](images/lesson2/toeat.png)
 
 ---
 
@@ -88,7 +88,7 @@
 
 (1):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/36e5fc1c-e0db-45dc-a68a-adad59ee03c4)
+![clear](images/lesson2/thirst.png)
 
 ---
 
@@ -98,7 +98,7 @@
 
 (1):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/a67ce128-9a52-485c-83a4-04290ea97ba2)
+![clear](images/lesson2/need.png)
 
 ---
 
@@ -135,11 +135,11 @@ Cамый важный параметр. Падает от получения р
 
 (1):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/9ce79093-035b-4a5f-94bf-5dbf6b3f7a2c)
+![clear](images/lesson2/health1.png)
 
 (2):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/67cbacad-14ad-438d-83bc-e982e84067b8)
+![clear](images/lesson2/health2.png)
 
 ---
 
@@ -151,11 +151,11 @@ Cамый важный параметр. Падает от получения р
 
 (1):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/2728e02d-b655-4d3a-b319-1c2af31ae16b)
+![clear](images/lesson2/purity1.png)
 
 (2):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/d874baa8-d9ee-42a6-aeb7-a46cdf113b95)
+![clear](images/lesson2/purity2.png)
 
 ---
 
@@ -163,7 +163,7 @@ Cамый важный параметр. Падает от получения р
 
 **Навыки** — это умения персонажа. Находятся справа от Истории, под параметрами.
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/8e03f45a-b252-4d13-9ec6-b0862fe84653)
+![](images/lesson2/skills.png)
 
 **Всего существует 10 навыков:**
 
@@ -196,15 +196,15 @@ Cамый важный параметр. Падает от получения р
 
 (1):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/eacf8773-3363-420d-8913-0780d697a815)
+![clear](images/lesson2/flair1.png)
 
 (2):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/4a6c767e-9731-4f04-902d-a2e485854783)
+![clear](images/lesson2/flair2.png)
 
 Если нажать на иконку нюха в навыках, то появится окошко, в котором будет написано, сколько осталось времени до следующего действия:
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/95aa31c8-4620-4fd3-ae4e-a565f1adfd84)
+![clear](images/lesson2/flair3.png)
 
 ---
 
@@ -214,11 +214,11 @@ Cамый важный параметр. Падает от получения р
 
 (1):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/2aeab8a1-c574-4e82-98fc-1d320b5e69fe)
+![clear](images/lesson2/digging1.png)
 
 (2):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/e4c9c7e5-097f-45cf-abb6-889dd58b9b4d)
+![](images/lesson2/digging2.png)
 
 ---
 
@@ -238,11 +238,11 @@ Cамый важный параметр. Падает от получения р
 
 (1):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/bd52dd19-ad6d-405f-806f-f80826aff3e5)
+![clear](images/lesson2/swimming1.png)
 
 (2):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/c48f158a-0bff-40ce-9b05-eaf0d014f8f4)
+![clear](images/lesson2/swimming2.png)
 
 ---
 
@@ -264,17 +264,17 @@ Cамый важный параметр. Падает от получения р
 
 - с 7 БУ показывается только лидирующий параметр:
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/9dac393d-b2e5-425d-b560-bd119477b739)
+![](images/lesson2/bu1.png)
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/44ab1233-3a02-40c1-97c7-99cbd592ffea)
+![](images/lesson2/bu2.png)
 
 - с 8 БУ все боевые параметры будут показываться списком с приблизительными значениями:
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/06f38755-eb80-42f1-8fc0-4aba883600cb)
+![](images/lesson2/bu3.png)
 
 - с 9 БУ игрокам предоставляются точные значения каждого параметра:
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/3eb8c9b0-d200-4755-a1b7-dd501b880df6)
+![](images/lesson2/bu4.png)
 
 > Так же появляется возможность смены БП.
 
@@ -304,15 +304,15 @@ Cамый важный параметр. Падает от получения р
 
 (1):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/89422b15-c5a2-4f90-b846-c96235508023)
+![clear](images/lesson2/bu5.png)
 
 (2):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/76d9392e-e77f-4b1d-ace8-cd7cc1fecc03)
+![clear](images/lesson2/bu6.png)
 
 (3):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/dd562143-9147-4920-bcf3-33de15e1c2b5)
+![](images/lesson2/bu7.png)
 
 ---
 
@@ -342,7 +342,7 @@ Cамый важный параметр. Падает от получения р
 
 > * — запрещено использование данных режимов в тренировках и заход в них вне соответствующих ситуаций.
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/7d0135ae-8a09-4a1b-8b93-7ca3985980e2)
+![](images/lesson2/training.png)
 
 Грушевание — это особый вид тренировки, при котором прокачивается только один котик, а остальные (один или двое) ему в этом помогают. Название пошло от понятия «груша для битья», потому что груши из боевого режима не выходят на протяжении всего времени кача. Имеет два вида: **одиночное** [[тык](https://d.zaix.ru/HBAV.jpg)] и **двойное** [[тык](https://i.ibb.co/Q3M1zLm2/HBAU.jpg)].
 
@@ -380,15 +380,15 @@ Cамый важный параметр. Падает от получения р
 
 (1):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/0b7c479f-78a9-4cab-be7a-faf1e820ca46)
+![clear](images/lesson2/vigilance1.png)
 
 (2):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/0d3ca33a-5c60-47d5-b339-2745dea918cb)
+![clear](images/lesson2/vigilance2.png)
 
 (3):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/e747c4b3-637e-4558-aa6f-4b6b2504aef4)
+![clear](images/lesson2/vigilance3.png)
 
 ---
 
@@ -398,7 +398,7 @@ Cамый важный параметр. Падает от получения р
 
 (1):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/cdf38faa-10c3-41db-9c3f-8b046af6f797)
+![clear](images/lesson2/healing1.png)
 
 ---
 
@@ -412,11 +412,11 @@ Cамый важный параметр. Падает от получения р
 
 (1):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/f0ae6a78-4d7a-407e-a09f-e40039230b97)
+![clear](images/lesson2/loyalty1.png)
 
 (2):
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/1c477218-63b7-426a-ac12-637a13f364b7)
+![clear](images/lesson2/loyalty2.png)
 
 ---
 
@@ -454,7 +454,7 @@ Cамый важный параметр. Падает от получения р
 
 Иконка действия:
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/5e9bb0d1-f37a-4e5f-9727-e529e3177077)
+![clear](images/lesson2/hunting1.png)
 
 **«Резвиться и прыгать»**
 
@@ -462,7 +462,7 @@ Cамый важный параметр. Падает от получения р
 
 Иконка действия:
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/8dbbdcf9-699b-4fa8-899c-5bee0bfd6a3e)
+![clear](images/lesson2/hunting2.png)
 
 ---
 
@@ -480,7 +480,7 @@ Cамый важный параметр. Падает от получения р
 
 Иконка действия:
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/000135a9-e840-4180-a0ce-0d0f211312f9)
+![clear](images/lesson2/pp1.png)
 
 **«Повалять по земле»**
 
@@ -488,7 +488,7 @@ Cамый важный параметр. Падает от получения р
 
 Иконка действия:
 
-![Image.png](https://catwar.net/rest/site/img/Zgrdw7fCYc1hbZUMbf14ftermTN-ePMh3H3SKgOhZsfaKC5r-TFq9yRhK-gbX1qS-NfW2kI)
+![clear](images/lesson2/pp2.png)
 
 **«Переплести хвосты»**
 
@@ -496,7 +496,7 @@ Cамый важный параметр. Падает от получения р
 
 Иконка действия:
 
-![Image.png](https://catwar.net/rest/site/img/1S2PWjzDC9JXMw8gwnAnsO_JCoyoC95m9_Vgn9N58llOcPcOYqH-z4U7GQNKYOZ-3YKw1Y8)
+![clear](images/lesson2/pp4.png)
 
 **«Потереться носом о нос»**
 
@@ -504,7 +504,7 @@ Cамый важный параметр. Падает от получения р
 
 Иконка действия:
 
-![Image.png](https://catwar.net/rest/site/img/aEn6FZAO3DU2W7NajFT9VAveMqGblpWHkhw5yQxReyilktMCuBLw2JRRE1j2jgYI1fWFI6s)
+![clear](images/lesson2/pp5.png)
 
 **«Потереться щекой о щёку»**
 
@@ -512,7 +512,7 @@ Cамый важный параметр. Падает от получения р
 
 Иконка действия:
 
-![Image.png](https://catwar.net/rest/site/img/sXbqWQI1P7Q2ri2EZXmADsYFzRONljd6UX12Dk1YckR3YZ_bPGVTA4MxTf69eETVf-Fnvyw)
+![clear](images/lesson2/pp6.png)
 
 ---
 
@@ -524,7 +524,7 @@ Cамый важный параметр. Падает от получения р
 
 Иконка действия:
 
-![Image.png](https://catwar.net/rest/site/img/nXwtnldjmtk2zakPc60XUfehuLMTMOElDUAeUJonfjVi4vRb_q0adzSLZsIMbqLukNoRfe4)
+![clear](images/lesson2/raise.png)
 
 **«Обмен предметами»**
 
@@ -532,7 +532,7 @@ Cамый важный параметр. Падает от получения р
 
 Иконка действия:
 
-![Image.png](https://catwar.net/rest/site/img/z2v3yu7vEVCch9JCdna2U2gjwL_w7o82ip2Tej6SbouIuD9QZiS-S_LGcJuUrfwaiXnb0Sg)
+![clear](images/lesson2/exchange.png)
 
 **«Наполнить мох водой»**
 
@@ -540,25 +540,25 @@ Cамый важный параметр. Падает от получения р
 
 Иконка действия:
 
-![Image.png](https://catwar.net/rest/site/img/BeMRNzy6xo5yc47MLXG5y03G6Vrf72TxydQLBeqA_f_aHO2m_7rHZukK2_zcL1ZSfUgmDos)
+![clear](images/lesson2/moss.png)
 
 ---
 
 # Места во рту
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/9365c7de-28cc-4940-a016-74e4f90ed1ec)
+![](images/lesson2/areasinthemouth.png)
 
 Рядом с параметрами, под чистотой, ты мог заметить некую гирю — она обозначает **количество мест во рту** персонажа. Количество мест разделяется на **базовое и запасное** (на скрине 5 базовых и 5 запасных места). Разберём поподробнее.
 
 Количество базовых мест зависит от роста персонажа (сам он зависит от возраста и уровня БУ). Количество запасных мест может быть от 0 до 5, действует по следующей схеме:
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/460c3688-443d-40a7-b253-8b9601ba61b8)
+![](images/lesson2/table1.png)
 
 > Поднять предмет, который занимает вес больше базовых мест во рту, не получится.
 
 **Перевес** происходит тогда, когда какие-либо предметы или коты начинают занимать запасные места во рту. В состоянии перевеса число текущих занятых мест и количество базовых мест выделяются **красным** цветом. Для наглядности:
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/11a11869-41c5-4e47-a71b-52167ceb0027)
+![](images/lesson2/advantage.png)
 
 Так, с полностью забитыми местами нельзя будет выловить что-то при осмотре дупла или расщелины, а во время охоты дичь будет появляться только в базовые места во рту. Некоторые предметы нельзя получить с помощью обмена, если заняты базовые места.
 
@@ -568,7 +568,7 @@ Cамый важный параметр. Падает от получения р
 
 Базовый вес кота:
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/17c860c6-b141-4873-97f6-0b72fac68219/b3a45460-0701-4024-9af8-3aeb4d940955)
+![](images/lesson2/catsweight.png)
 
 **Поднять котика ты можешь в следующих случаях:**
 

@@ -406,7 +406,7 @@ III. **Лекторы проводят котятам экскурсию по в
 
 ### Список блогов Грозового племени:
 
-**—** [**Главный**](https://catwar.su/blog7185)** |** [**Награды**](https://catwar.su/blog968239)** |** [**Правила**](https://catwar.su/blog23487)** —**
+[Главный](https://catwar.su/blog7185) | [Награды](https://catwar.su/blog968239) | [Правила](https://catwar.su/blog23487)
 
 [Пограничные патрули](https://catwar.su/blog9447) | [Целительство](https://catwar.su/blog14254) | [Дозоры](https://catwar.su/blog14544) | [Охота](https://catwar.su/blog13390)
 

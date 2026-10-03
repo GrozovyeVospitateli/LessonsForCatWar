@@ -2,7 +2,7 @@
 
 # Урок 6. Памятка по чрезвычайным ситуациям
 
-![clear](images/lesson6/cap.png)
+![clear](images/lesson6/cap3.png)
 
 ### **Привет, малыш!**
 

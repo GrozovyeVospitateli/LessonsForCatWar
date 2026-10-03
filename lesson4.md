@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Урок 4. Грозовое племя
 
 ![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/d454a093-0689-4ad3-b547-bd898afe6fa3/c5aa60e8-2824-44f8-bb9e-6579d05666c2)

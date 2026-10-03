@@ -398,7 +398,7 @@ Cамый важный параметр. Падает от получения р
 
 (1):
 
-![clear](images/lesson2/healing1.png)
+![clear](images/lesson2/healing.png)
 
 ---
 

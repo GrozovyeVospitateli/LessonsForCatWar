@@ -98,3 +98,27 @@ hr {
 .center-text {
   text-align: center !important;
 }
+
+/* ===================================================
+   БЛОК ФОКУСА / ВЫДЕЛЕНИЯ (ЦИТАТА BLOCKQUOTE)
+   =================================================== */
+.markdown-body blockquote {
+  /* Левая акцентная полоска фирменного коричневого цвета */
+  border-left: 4px solid #5f4726 !important;
+  
+  /* Легкий полупрозрачный фон для всего блока (как в Craft) */
+  background-color: rgba(95, 71, 38, 0.08) !important;
+  
+  /* Скругление правых углов блока */
+  border-radius: 0 10px 10px 0;
+  
+  /* Внутренние отступы, чтобы текст не прилипал к краям */
+  padding: 12px 20px !important;
+  margin: 20px 0 !important;
+}
+
+/* Цвет текста внутри блока фокуса */
+.markdown-body blockquote p {
+  color: #5f4726 !important;
+  margin: 0 !important;
+}

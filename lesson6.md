@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Урок 6. Памятка по чрезвычайным ситуациям
 
 ![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/cc37f7e9-58db-fdad-96fe-0ff470fa741a/45e52def-fefd-a82f-5b35-a5585bb3728e)

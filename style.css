@@ -77,14 +77,29 @@ hr {
 /* ===================================================
    ИЗОБРАЖЕНИЯ (СКРИНШОТЫ И ИЛЛЮСТРАЦИИ)
    =================================================== */
-/* Центрирование картинок внутри карточки */
+/* Центрирование и базовые стили для всех картинок */
 .markdown-body img {
   display: block !important;
   margin-left: auto !important;
   margin-right: auto !important;
   max-width: 100% !important;
   height: auto !important;
+  
+  /* Убираем белый фон, стандартные рамки и тени GitHub */
+  background-color: transparent !important;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  
+  /* Скругление углов по умолчанию (для обычных скриншотов) */
   border-radius: 12px;
+}
+
+/* Отключение скругления для прозрачных картинок и виньеток:
+   срабатывает, если в Markdown указано ![clear](путь) или присвоен класс transparent */
+.markdown-body img[alt*="clear"],
+.markdown-body img.transparent {
+  border-radius: 0 !important;
 }
 
 /* Центрирование абзацев с изображениями */

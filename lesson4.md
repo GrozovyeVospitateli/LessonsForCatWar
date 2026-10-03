@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Урок 4. Грозовое племя
 
 ![clear](images/lesson4/cap2.png)

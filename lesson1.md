@@ -79,7 +79,7 @@
 
 Как предметы выглядят во рту:
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/0b4664a6-1a11-4296-bd12-7e084990e567/54b812b1-f11e-4f6e-8376-b96cb4a197c5)
+![](images/lesson1/vortu.png)
 
 Фон зависит от выбранного дизайна.
 
@@ -105,7 +105,7 @@
 
 Как выглядит чат в Игровой:
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/0b4664a6-1a11-4296-bd12-7e084990e567/be64cdc6-ff2f-449e-8cc0-ecf74aa91ef4)
+![](images/lesson1/chat.png)
 
 Фон зависит от выбранного дизайна.
 
@@ -135,7 +135,7 @@
 
 Как выглядит нижняя часть Игровой:
 
-![image.png](https://resv2.craft.do/user/full/0d67b934-e70f-2e06-4913-353cc38f2907/doc/0b4664a6-1a11-4296-bd12-7e084990e567/6a516ab6-1205-40d8-9c3a-1686dc55ea28)
+![](images/lesson1/history.png)
 
 Фон зависит от выбранного дизайна.
 

@@ -406,45 +406,67 @@ III. **Лекторы проводят котятам экскурсию по в
 
 ### Список блогов Грозового племени:
 
-<div class="center-text">
+<p align="center">
+<a href="https://catwar.su/blog7185">Главный</a> ｜ <a href="https://catwar.su/blog968239">Награды</a> ｜ <a href="https://catwar.su/blog23487">Правила</a>
+</p>
 
-[Главный](https://catwar.su/blog7185) \| [Награды](https://catwar.su/blog968239) \| [Правила](https://catwar.su/blog23487)
+<p align="center">
+<a href="https://catwar.su/blog9447">Пограничные патрули</a> ｜ <a href="https://catwar.su/blog14254">Целительство</a> ｜ <a href="https://catwar.su/blog14544">Дозоры</a> ｜ <a href="https://catwar.su/blog13390">Охота</a>
+</p>
 
-[Пограничные патрули](https://catwar.su/blog9447) \| [Целительство](https://catwar.su/blog14254) \| [Дозоры](https://catwar.su/blog14544) \| [Охота](https://catwar.su/blog13390)
+<p align="center">
+<a href="https://catwar.su/blog12368">Воспитатели</a> ｜ <a href="https://catwar.su/blog16834">Искатели Грёз</a> ｜ <a href="https://catwar.su/blog93145">Лекторы</a> ｜ <a href="https://catwar.su/blog1107509">Наставники</a>
+</p>
 
-[Воспитатели](https://catwar.su/blog12368) \| [Искатели Грёз](https://catwar.su/blog16834) \| [Лекторы](https://catwar.su/blog93145) \| [Наставники](https://catwar.su/blog1107509)
+<p align="center">
+<a href="https://catwar.su/blog11232">Котята-нарушители</a> ｜ <a href="https://catwar.su/blog310433">Приют</a> ｜ <a href="https://catwar.su/blog44479?0">Хранители</a> ｜ <a href="https://catwar.su/blog12379">Чистильщики</a>
+</p>
 
-[Котята-нарушители](https://catwar.su/blog11232) \| [Приют](https://catwar.su/blog310433) \| [Хранители](https://catwar.su/blog44479?0) \| [Чистильщики](https://catwar.su/blog12379)
+<p align="center">
+<a href="https://catwar.su/blog12384">Туннелеры</a> ｜ <a href="https://catwar.su/blog422442">Скалолазы</a> ｜ <a href="https://catwar.su/blog588492">Белки-летяги</a> ｜ <a href="https://catwar.su/blog26829">Ныряльщики</a> ｜ <a href="https://catwar.su/blog987643">Экспедиции</a>
+</p>
 
-[Туннелеры](https://catwar.su/blog12384) \| [Скалолазы](https://catwar.su/blog422442) \| [Белки-летяги](https://catwar.su/blog588492) \| [Ныряльщики](https://catwar.su/blog26829) \| [Экспедиции](https://catwar.su/blog987643)
+<p align="center">
+<a href="https://catwar.su/blog17745">Грушевание</a> ｜ <a href="https://catwar.su/blog30004">Боевая академия</a> ｜ <a href="https://catwar.su/blog1116702">Рейды</a> ｜ <a href="https://catwar.su/blog699195">Походы</a>
+</p>
 
-[Грушевание](https://catwar.su/blog17745) \| [Боевая академия](https://catwar.su/blog30004) \| [Рейды](https://catwar.su/blog1116702) \| [Походы](https://catwar.su/blog699195)
-
-[Творцы](https://catwar.su/blog269163) \| [Организаторы](https://catwar.su/blog603959) \| [Барсуки](https://catwar.su/blog736440)
-
-</div>
+<p align="center">
+<a href="https://catwar.su/blog269163">Творцы</a> ｜ <a href="https://catwar.su/blog603959">Организаторы</a> ｜ <a href="https://catwar.su/blog736440">Барсуки</a>
+</p>
 
 ### Список блогов Теневого племени:
 
-<div class="center-text">
+<p align="center">
+<a href="https://catwar.su/blog10645">Главный блог</a> ｜ <a href="https://catwar.su/blog990014">Блог наград</a> ｜ <a href="https://catwar.su/blog1032215">Лор племени</a>
+</p>
 
-[Главный блог](https://catwar.su/blog10645) \| [Блог наград](https://catwar.su/blog990014) \| [Лор племени](https://catwar.su/blog1032215)
+<p align="center">
+<a href="https://catwar.su/blog1150074">Чрезвычайные ситуации</a>
+</p>
 
-[Чрезвычайные ситуации](https://catwar.su/blog1150074)
+<p align="center">
+<a href="https://catwar.su/blog12780">Пограничные патрули</a> ｜ <a href="https://catwar.su/blog14281">Охотничьи патрули</a> ｜ <a href="https://catwar.su/blog13296">Дозоры</a>
+</p>
 
-[Пограничные патрули](https://catwar.su/blog12780) \| [Охотничьи патрули](https://catwar.su/blog14281) \| [Дозоры](https://catwar.su/blog13296)
+<p align="center">
+<a href="https://catwar.su/blog25927">Контроль Активности</a> ｜ <a href="https://catwar.su/blog32077">Контроль Наставников</a>
+</p>
 
-[Контроль Активности](https://catwar.su/blog25927) \| [Контроль Наставников](https://catwar.su/blog32077)
+<p align="center">
+<a href="https://catwar.su/blog614397">Целители</a> ｜ <a href="https://catwar.su/blog315233">Каратели</a> ｜ <a href="https://catwar.su/blog97212">Школа танцев</a>
+</p>
 
-[Целители](https://catwar.su/blog614397) \| [Каратели](https://catwar.su/blog315233) \| [Школа танцев](https://catwar.su/blog97212)
+<p align="center">
+<a href="https://catwar.su/blog588210">Воспитатели</a> ｜ <a href="https://catwar.su/blog1191531">Котячья деятельность: Последователи Первородной Тени</a>
+</p>
 
-[Воспитатели](https://catwar.su/blog588210) \| [Котячья деятельность: Последователи Первородной Тени](https://catwar.su/blog1191531)
+<p align="center">
+<a href="https://catwar.su/blog27148">Чистильщики</a> ｜ <a href="https://catwar.su/blog26134">Организаторы</a> ｜ <a href="https://catwar.su/blog13304">Туннелеры</a> ｜ <a href="https://catwar.su/blog679641">Команда Крыланов</a> ｜ <a href="https://catwar.su/blog55622">Пловцы</a> ｜ <a href="https://catwar.su/blog427983">Горные козлики</a>
+</p>
 
-[Чистильщики](https://catwar.su/blog27148) \| [Организаторы](https://catwar.su/blog26134) \| [Туннелеры](https://catwar.su/blog13304) \| [Команда Крыланов](https://catwar.su/blog679641) \| [Пловцы](https://catwar.su/blog55622) \| [Горные козлики](https://catwar.su/blog427983)
-
-[Цитадель Хранителей](https://catwar.su/blog554173) \| [Мастерская чудес](https://catwar.su/blog607323) \| [Сокровищница](https://catwar.su/blog656496) \| [Грушевание](https://catwar.su/blog789038)
-
-</div>
+<p align="center">
+<a href="https://catwar.su/blog554173">Цитадель Хранителей</a> ｜ <a href="https://catwar.su/blog607323">Мастерская чудес</a> ｜ <a href="https://catwar.su/blog656496">Сокровищница</a> ｜ <a href="https://catwar.su/blog789038">Грушевание</a>
+</p>
 
 ---
 

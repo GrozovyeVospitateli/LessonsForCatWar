@@ -137,3 +137,21 @@ hr {
   color: #5f4726 !important;
   margin: 0 !important;
 }
+
+/* ===================================================
+   ОФОРМЛЕНИЕ ССЫЛОК (В ЦВЕТ ТЕКСТА И С ПОДЧЕРКИВАНИЕМ)
+   =================================================== */
+/* Все ссылки внутри документа */
+.markdown-body a {
+  color: #5f4726 !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 1px !important;
+  text-underline-offset: 3px !important; /* Небольшой отступ линии от букв для красоты */
+  transition: opacity 0.2s ease;
+}
+
+/* Эффект при наведении курсора на ссылку */
+.markdown-body a:hover {
+  color: #3b2c17 !important; /* Чуть темнее при наведении */
+  opacity: 0.8;
+}
